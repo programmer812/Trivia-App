@@ -13,6 +13,5 @@ web-build/
 # macOS
 .DS_Store
 
-updates.txt
 app.config.js
 eas.json
